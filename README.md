@@ -51,3 +51,6 @@ If necessary, adjust the connection string within the code to point to the locat
 + Database Error: Ensure that the database schema matches the application requirements.
 + Debugging: Utilize Visual Studio’s logging and debugging tools by checking the console output for any errors when running the solution.
 + Help and Support: Consult online forums or the official Visual Studio documentation for more comprehensive troubleshooting steps.
+
+
+Contact Information For any issues or queries regarding the project, please contact:[Alonemapitlula@gmail.com]
