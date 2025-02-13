@@ -51,7 +51,7 @@ namespace ATM_sim
         private void btnDeposit_Click(object sender, EventArgs e)
         {
             Deposit deposit = new Deposit();
-            deposit.Show();
+            deposit.Show(); 
             this.Hide();
         }
 
