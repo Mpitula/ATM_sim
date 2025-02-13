@@ -10,12 +10,5 @@ An ATM (Automated Teller Machine) simulation for students is a simplified, educa
 # Introduces the idea of managing funds responsibly.
 
 + Balance Inquiry: Students can check their account balance at any time. Reinforces the importance of monitoring finances.
-+ Transaction History: Displays a list of recent transactions (deposits, withdrawals).
-
-Helps students understand the flow of money.
-
-4. Simple Interface:
-
-Designed to be user-friendly, with clear menus and instructions.
-
-Suitable for students with no prior banking experience.
++ Transaction History: Displays a list of recent transactions (deposits, withdrawals). Aid students understand the flow of money.
++ Simple Interface: Designed to be user-friendly, with clear menus and instructions. Suitable for students with no prior banking experience.
